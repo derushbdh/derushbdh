@@ -16,7 +16,7 @@ Vladivostok, Russia
 
 ## Profile
 
-4th-year Software Engineering student. I have practical experience in building web applications and RESTful APIs. I am looking for an entry-level position or internship in software development. Open to full-cycle tasks: from database design and backend logic to application deployment. Ready for intensive learning and mastering new technology stacks to meet business goals.
+4th-year Software Engineering student. I have practical experience in building web applications and RESTful APIs. I am looking for an entry-level position or internship in software development. Open to: from database design and backend logic to application deployment. Ready for intensive learning and mastering new technology stacks to meet business goals.
 
 ---
 
