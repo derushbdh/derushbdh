@@ -32,7 +32,7 @@ Vladivostok, Russia
 
 ## Projects
 
-### Todo RESTful API | 2025 | Personal Project
+### Todo RESTful API | Personal Project
 Developed a complete RESTful API with authentication and containerization.
 * Designed a relational database schema using **SQLAlchemy**.
 * Implemented user registration and authorization using **JWT tokens** and password hashing (**Passlib**).
@@ -41,7 +41,7 @@ Developed a complete RESTful API with authentication and containerization.
 * Containerized the application with **Docker** to unify the deployment process.
 * **Stack:** Python, FastAPI, SQLAlchemy, SQLite, Pytest, Docker, JWT.
 
-### FEFU Campus Delivery Platform | 2024 | University Project
+### FEFU Campus Delivery Platform | University Project
 Web application for ordering goods on the university campus.
 * Developed the backend using **Django**.
 * Set up an admin panel for managing the product catalog and orders.
