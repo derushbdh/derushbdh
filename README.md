@@ -32,6 +32,15 @@ Vladivostok, Russia
 
 ## Projects
 
+### E-Commerce API | Personal Project
+Developed a robust RESTful API for an online store with a focus on database architecture and containerization.
+* Engineered a relational database schema using PostgreSQL and SQLAlchemy, including foreign keys and relationships for a shopping cart system.
+* Managed database schema changes and version control using Alembic migrations.
+* Implemented Role-Based Access Control (Admin/User) and secure authentication via JWT.
+* Built core business logic including product catalog management, cart operations, and order checkout processing.
+* Orchestrated a multi-container environment (Backend API + Database) using Docker Compose.
+* **Stack**: Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker Compose, Pydantic, JWT.
+
 ### Todo RESTful API | Personal Project
 Developed a complete RESTful API with authentication and containerization.
 * Designed a relational database schema using **SQLAlchemy**.
