@@ -50,13 +50,6 @@ Developed a complete RESTful API with authentication and containerization.
 * Containerized the application with **Docker** to unify the deployment process.
 * **Stack:** Python, FastAPI, SQLAlchemy, SQLite, Pytest, Docker, JWT.
 
-### FEFU Campus Delivery Platform | University Project
-Web application for ordering goods on the university campus.
-* Developed the backend using **Django**.
-* Set up an admin panel for managing the product catalog and orders.
-* Implemented a role-based access model (Customer, Courier, Administrator).
-* **Stack:** Python, Django, HTML/CSS.
-
 ---
 
 ## Education
