@@ -41,15 +41,6 @@ Developed a robust RESTful API for an online store with a focus on database arch
 * Orchestrated a multi-container environment (Backend API + Database) using Docker Compose.
 * **Stack**: Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker Compose, Pydantic, JWT.
 
-### Todo RESTful API | Personal Project
-Developed a complete RESTful API with authentication and containerization.
-* Designed a relational database schema using **SQLAlchemy**.
-* Implemented user registration and authorization using **JWT tokens** and password hashing (**Passlib**).
-* Configured routing and input data validation with **FastAPI** and **Pydantic**.
-* Wrote automated tests (**Pytest**) using an in-memory database to ensure 100% logic coverage.
-* Containerized the application with **Docker** to unify the deployment process.
-* **Stack:** Python, FastAPI, SQLAlchemy, SQLite, Pytest, Docker, JWT.
-
 ---
 
 ## Education
