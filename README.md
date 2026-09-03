@@ -41,6 +41,9 @@ Developed a robust RESTful API for an online store with a focus on database arch
 * Orchestrated a multi-container environment (Backend API + Database) using Docker Compose.
 * **Stack**: Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker Compose, Pydantic, JWT.
 
+### Aegis
+SaaS
+
 ---
 
 ## Education
