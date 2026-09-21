@@ -32,7 +32,7 @@ Vladivostok, Russia
 
 ## Projects
 
-### E-Commerce API | Personal Project
+### E-Commerce API | [Repository](https://github.com/derushbdh/E-Commerce)
 Developed a robust RESTful API for an online store with a focus on database architecture and containerization.
 * Engineered a relational database schema using PostgreSQL and SQLAlchemy, including foreign keys and relationships for a shopping cart system.
 * Managed database schema changes and version control using Alembic migrations.
@@ -41,8 +41,12 @@ Developed a robust RESTful API for an online store with a focus on database arch
 * Orchestrated a multi-container environment (Backend API + Database) using Docker Compose.
 * **Stack**: Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker Compose, Pydantic, JWT.
 
-### Aegis
-SaaS
+### Aegis — DAST Security Scanner & Telegram Bot | [Repository](https://github.com/derushbdh/Aegis)
+- Built an asynchronous black-box web security scanner and interactive Telegram bot using **Aiogram 3** and **httpx**.
+- Implemented non-blocking background task queues with **Taskiq** and **Redis** for distributed audit executions.
+- Designed relational schemas and audit history persistence using **PostgreSQL**, **SQLAlchemy 2.0 (asyncpg)**, and **Alembic**.
+- Integrated a local **AI White-Hat Consultant (Qwen 2.5 via LM Studio)** to analyze raw scan dumps and provide structured remediation steps without hallucinations.
+- Packaged services into reproducible **Docker Compose** environments.
 
 ---
 
