@@ -45,7 +45,7 @@ Developed a robust RESTful API for an online store with a focus on database arch
 - Built an asynchronous black-box web security scanner and interactive Telegram bot using **Aiogram 3** and **httpx**.
 - Implemented non-blocking background task queues with **Taskiq** and **Redis** for distributed audit executions.
 - Designed relational schemas and audit history persistence using **PostgreSQL**, **SQLAlchemy 2.0 (asyncpg)**, and **Alembic**.
-- Integrated a local **AI White-Hat Consultant (Qwen 2.5 via LM Studio)** to analyze raw scan dumps and provide structured remediation steps without hallucinations.
+- Integrated a local **AI Consultant (Qwen 2.5 via LM Studio)** to analyze raw scan dumps and provide structured remediation steps without hallucinations.
 - Packaged services into reproducible **Docker Compose** environments.
 
 ---
